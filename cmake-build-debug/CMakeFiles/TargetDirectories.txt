@@ -1,0 +1,3 @@
+D:/Freelance/19.03.2022_Image_process/19.03.2022_Image_process_CLION/cmake-build-debug/CMakeFiles/image_processor.dir
+D:/Freelance/19.03.2022_Image_process/19.03.2022_Image_process_CLION/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freelance/19.03.2022_Image_process/19.03.2022_Image_process_CLION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
